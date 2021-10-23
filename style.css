@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(101, 172, 69);
+
+
+}
+.title {
+    color: rgb(34, 233, 44);
+    font-size: 50px;
+
+    text-align: center;
+    margin-top:-70px;
+    z-index: 2;
+    
+}
+ .img {
+     background-image: url(/photo_2021-10-23_21-13-51.jpg);
+     height: 700px;
+     width: 400px;
+     background-size: cover;
+     margin: 0 auto;
+ } 
